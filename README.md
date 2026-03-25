@@ -87,13 +87,12 @@ I've worked on full project lifecycles at **Kia & Hyundai Motors**, **Blue Harmo
 ## Education and Certifications
 
 - B.Tech - Electronics and Communication Engineering, Lovely Professional University (2022)
-- SAP ABAP Certification (C_TAW12_750) - In Progress
 
 ---
 
 ## Lets Connect
 
-**sriramgokarni.sap@gmail.com** | **+91-7032354217**
+**sriramgokarni2000.sap@gmail.com** | **+91-7032354217**
 
 ---
 
