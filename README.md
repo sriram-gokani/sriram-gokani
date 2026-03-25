@@ -1,25 +1,24 @@
-
 <div align="center">
 
-# Hey there! I'm Sriram Gokani ðŸ‘‹
+# Hey there! I'm Sriram Gokani
 
-### SAP ABAP Consultant Â· S/4 HANA Â· CDS Views Â· OData Â· CPI Integrations
+### SAP ABAP Consultant | S/4 HANA | CDS Views | OData | CPI Integrations
 
-ðŸ“ Hyderabad, Telangana &nbsp;|&nbsp; ðŸ“§ sriramgokarni.sap@gmail.com &nbsp;|&nbsp; ðŸ’¼ Accenture Delivery Centre
+Hyderabad, Telangana &nbsp;|&nbsp; sriramgokarni.sap@gmail.com &nbsp;|&nbsp; Accenture Delivery Centre
 
 </div>
 
 ---
 
-## ðŸ™‹â€â™‚ï¸ A Little About Me
+## About Me
 
 I'm an SAP ABAP Technical Consultant with **3+ years of hands-on experience** building solutions across **automotive, FMCG, and financial services** domains. I love turning complex business requirements into clean, efficient ABAP code â€” whether that's a snappy CDS View, a smooth OData service, or a reliable CPI integration.
 
-I've worked on full project lifecycles at **Kia & Hyundai Motors**, **Blue Harmony**, and **Benekeith**, and I'm always looking to sharpen my skills and explore new SAP technologies. ðŸš€
+I've worked on full project lifecycles at **Kia & Hyundai Motors**, **Blue Harmony**, and **Benekeith**, and I'm always looking to sharpen my skills and explore new SAP technologies. 
 
 ---
 
-## ðŸ› ï¸ My SAP Toolbox
+## My SAP Toolbox
 
 ### Core ABAP
 ![ABAP](https://img.shields.io/badge/ABAP-OOP%20%7C%20OO-0070C0?style=flat-square)
@@ -64,18 +63,18 @@ I've worked on full project lifecycles at **Kia & Hyundai Motors**, **Blue Harmo
 
 ---
 
-## ðŸ† Key Highlights
+## Key Highlights
 
-- ðŸ”„ **3 full project lifecycles** â€” Implementation, Support & Rollout at Accenture
-- ðŸ“¡ **13 CPI interfaces** delivered in HCM domain with **zero post-go-live defects**
-- ðŸ“‰ Reduced manual reconciliation effort by **~30%** with CDS-based FIF reporting at Blue Harmony
-- ðŸ“Š Daily Sales Report used by **50+ business users** at Kia & Hyundai Motors
-- ðŸ” Authorization-secured mass upload handling **1,000+ records** at Benekeith
-- ðŸŽ¯ ATC Priority 2 checks â€” zero critical findings before every production transport
+- 3 full project lifecycles** â€” Implementation, Support & Rollout at Accenture
+- 13 CPI interfaces** delivered in HCM domain with **zero post-go-live defects**
+- Reduced manual reconciliation effort by **~30%** with CDS-based FIF reporting at Blue Harmony
+- Daily Sales Report used by **50+ business users** at Kia & Hyundai Motors
+- Authorization-secured mass upload handling **1,000+ records** at Benekeith
+- ATC Priority 2 checks â€” zero critical findings before every production transport
 
 ---
 
-## ðŸ’¼ Work Experience
+## Work Experience
 
 | Period | Client | Type | Domain |
 |--------|--------|------|--------|
@@ -85,18 +84,18 @@ I've worked on full project lifecycles at **Kia & Hyundai Motors**, **Blue Harmo
 
 ---
 
-## ðŸŽ“ Education & Certifications
+## Education & Certifications
 
-- ðŸŽ“ **B.Tech â€“ Electronics & Communication Engineering** Â· Lovely Professional University (2022)
-- ðŸ“œ **SAP ABAP Certification** (C_TAW12_750) â€” *In Progress*
+- B.Tech â€“ Electronics & Communication Engineering** Â· Lovely Professional University (2022)
+- SAP ABAP Certification** (C_TAW12_750) â€” *In Progress*
 
 ---
 
-## ðŸ“¬ Let's Connect!
+## Lets Connect!
 
 I'm always happy to chat about SAP, ABAP, S/4 HANA, or anything tech. Feel free to reach out!
 
-ðŸ“§ **sriramgokarni.sap@gmail.com** &nbsp;|&nbsp; ðŸ“± **+91-7032354217**
+**sriramgokarni.sap@gmail.com** &nbsp;|&nbsp; **+91-7032354217**
 
 ---
 
