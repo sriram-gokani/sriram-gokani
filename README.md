@@ -4,7 +4,7 @@
 
 ### SAP ABAP Consultant | S/4 HANA | CDS Views | OData | CPI Integrations
 
-Hyderabad, Telangana | sriramgokarni.sap@gmail.com | Accenture Delivery Centre
+Hyderabad, Telangana | sriramgokarni2000.sap@gmail.com | Accenture Delivery Centre
 
 </div>
 
